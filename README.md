@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Talha Rizwan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fquick-saves--1148417973706332104%2F&psig=AOvVaw3Q1jR9VqYI2NkZ8LXd2O7V&ust=1690787059989000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiUm-XutYADFQAAAAAdAAAAABAT" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talharizwan093&label=Profile%20views&color=0e75b6&style=flat" alt="talharizwan093" /> </p>
 
 - 🏫 I’m currently studying Software Engineering from **Comsats University Islamabad**
