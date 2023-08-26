@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vquskq8Pax0pWhYltDJEKClUS7iVrob_/view?usp=sharing](https://drive.google.com/file/d/1vquskq8Pax0pWhYltDJEKClUS7iVrob_/view?usp=sharing)
 
-- 🎮 Hobbies. **I love to play computer games.**
+- 🎮 Hobbies. **I love to playing computer games and completing small projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
