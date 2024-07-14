@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talharizwan093&label=Profile%20views&color=0e75b6&style=flat" alt="talharizwan093" /> </p>
 
-- 🏫 I’m currently studying Software Engineering from **Comsats University Islamabad**
+- 🏫 I’m a Software Engineering from **Comsats University Islamabad**
 
 - 🌱 I’m currently learning **Next JS, Springboot**
 
