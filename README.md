@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Rizwan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align = "right" alt = "coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
@@ -7,9 +7,9 @@
 
 - 🏫 I’m a Software Engineering from **Comsats University Islamabad**
 
-- 🌱 I’m currently learning **Next JS, Springboot**
+- 🌱 I’m currently learning **Java, Spring boot**
 
-- 🔭 I’m currently working on **Easy Electro Shop**
+- 🔭 I’m currently working at **Alachisoft**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
 
