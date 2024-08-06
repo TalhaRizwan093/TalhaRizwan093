@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
 
-- 💬 Ask me about **React JS, Next JS, Springboot**
+- 💬 Ask me about **Springboot, ASP.NET, ReactJS**
 
 - 📫 How to reach me **talha.rizwan7176@gmail.com**
 
