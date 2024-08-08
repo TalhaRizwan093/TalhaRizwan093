@@ -1,24 +1,17 @@
 <h1 align="center">Hi 👋, I'm Talha Rizwan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align = "right" alt = "coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+`<img align = "right" alt = "coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talharizwan093&label=Profile%20views&color=0e75b6&style=flat" alt="talharizwan093" /> </p>
 
 - 🏫 I’m a Software Engineering from **Comsats University Islamabad**
-
 - 🌱 I’m currently learning **Java, Spring boot**
-
 - 🔭 I’m currently working at **Alachisoft**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
-
 - 💬 Ask me about **Springboot, ASP.NET, ReactJS**
-
 - 📫 How to reach me **talha.rizwan7176@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vquskq8Pax0pWhYltDJEKClUS7iVrob_/view?usp=sharing](https://drive.google.com/file/d/1vquskq8Pax0pWhYltDJEKClUS7iVrob_/view?usp=sharing)
-
 - 🎮 Hobbies. **I love to playing computer games and completing small projects.**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,9 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talharizwan093&show_icons=true&locale=en&layout=compact" alt="talharizwan093" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talharizwan093&show_icons=true&locale=en" alt="talharizwan093" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=talharizwan093&show_icons=true&locale=en" alt="talharizwan093" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talharizwan093&" alt="talharizwan093" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
