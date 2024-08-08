@@ -36,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talharizwan093&show_icons=true&locale=en" alt="talharizwan093" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talharizwan093&" alt="talharizwan093" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
