@@ -28,7 +28,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=TalhaRizwan093&show_icons=true&locale=en&theme=algolia" alt="talharizwan093" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TalhaRizwan093&theme=algolia" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TalhaRizwan093&theme=algolia)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=TalhaRizwan093&column=-1&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
