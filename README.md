@@ -30,8 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talharizwan093&&theme=onedark" alt="talharizwan093" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TalhaRizwan093&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=TalhaRizwan093&column=-1&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
