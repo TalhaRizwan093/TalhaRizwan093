@@ -28,7 +28,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=talharizwan093&show_icons=true&locale=en&theme=onedark" alt="talharizwan093" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talharizwan093&&theme=onedark" alt="talharizwan093" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talharizwan093&&theme=algolia" alt="talharizwan093" /></p>
 
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=TalhaRizwan093&column=-1&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
