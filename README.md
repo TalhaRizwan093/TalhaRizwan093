@@ -7,7 +7,7 @@
 
 - 🏫 I’m a Software Engineering with 3+ Years of expeirence
 - 🌱 I’m currently learning **Java, Spring boot**
-- 🔭 I’m currently working at **Nordkood**
+- 🔭 I’m currently working at **Nordkood** as a Software Engineer
 - 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
 - 💬 Ask me about **System Design, Backend Development, Distributed Systems**
 - 📫 How to reach me **talharizwan.me@gmail.com**
