@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talharizwan093&label=Profile%20views&color=0e75b6&style=flat" alt="talharizwan093" /> </p>
 
 - 🏫 I’m a Software Engineering with 3+ Years of expeirence
-- 🌱 I’m currently learning **Java, Spring boot**
+- 🌱 I’m currently learning **Java, Spring boot and AWS**
 - 🔭 I’m currently working at **Nordkood** as a Software Engineer
 - 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
 - 💬 Ask me about **System Design, Backend Development, Distributed Systems**
